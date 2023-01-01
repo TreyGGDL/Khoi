@@ -2,7 +2,6 @@ import React, { useCallback } from "react";
 // import styled from "styled-components/native";
 import { Text, Image, View, SafeAreaView } from "react-native";
 // import { SafeArea } from ".../spacer/safe-area.components.js";
-// import { RoundedButton } from "../component/utils/RoundedButton"
 
 export const HomeScreen = () => {
   return (
